@@ -7,7 +7,7 @@
  
 # ✨ About UNIvation
 
-- a cross-platform application applying the basic concepts of spring, web services, service-oriented architecture, Angular, Data Mining, and goodsoftware engineering practices.
+- a cross-platform application using MicroServices Architecture and Docker Images, applying the basic concepts of spring, web services, service-oriented architecture, Angular, Data Mining, and goodsoftware engineering practices.
 -  It is composed of two modules: catering and foyer management with a university forum and connects them using an SSO single sign-on module based on SAML (Security Assertion Markup Language) with an interface of
 configuration.
 - Managing the identities and access between the different applications.
